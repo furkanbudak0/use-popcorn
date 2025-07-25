@@ -14,7 +14,11 @@ React ile geliştirilmiş, film arama ve izleme listesi uygulaması.
    ```bash
    npm install
    ```
-2. Uygulamayı başlatın:
+2. Kendi Omdb API Key'inizi projeye ekleyin:
    ```bash
    npm start
+   ```
+3. Uygulamayı başlatın:
+   ```src/UseMovies.js
+   const Key = "[your api key]";
    ```
